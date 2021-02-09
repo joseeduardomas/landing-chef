@@ -1,0 +1,64 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/09/2020 22:20
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-analitica:before { content: "\f100"; }
+.flaticon-ganancias:before { content: "\f101"; }
+.flaticon-grafico-circular:before { content: "\f102"; }
+.flaticon-factura:before { content: "\f103"; }
+.flaticon-google-play:before { content: "\f104"; }
+.flaticon-manzana:before { content: "\f105"; }
+.flaticon-simbolo-de-diseno-receptivo:before { content: "\f106"; }
+.flaticon-herramientas:before { content: "\f107"; }
+.flaticon-instrumentos:before { content: "\f108"; }
+.flaticon-reparar:before { content: "\f109"; }
+.flaticon-herramientas-de-reparacion:before { content: "\f10a"; }
+.flaticon-factura-1:before { content: "\f10b"; }
+    
+    $font-Flaticon-analitica: "\f100";
+    $font-Flaticon-ganancias: "\f101";
+    $font-Flaticon-grafico-circular: "\f102";
+    $font-Flaticon-factura: "\f103";
+    $font-Flaticon-google-play: "\f104";
+    $font-Flaticon-manzana: "\f105";
+    $font-Flaticon-simbolo-de-diseno-receptivo: "\f106";
+    $font-Flaticon-herramientas: "\f107";
+    $font-Flaticon-instrumentos: "\f108";
+    $font-Flaticon-reparar: "\f109";
+    $font-Flaticon-herramientas-de-reparacion: "\f10a";
+    $font-Flaticon-factura-1: "\f10b";

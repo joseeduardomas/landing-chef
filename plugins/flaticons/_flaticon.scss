@@ -1,0 +1,102 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 25/09/2020 16:06
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-analitica:before { content: "\f100"; }
+.flaticon-ganancias:before { content: "\f101"; }
+.flaticon-google-play:before { content: "\f102"; }
+.flaticon-manzana:before { content: "\f103"; }
+.flaticon-simbolo-de-diseno-receptivo:before { content: "\f104"; }
+.flaticon-herramientas-de-reparacion:before { content: "\f105"; }
+.flaticon-factura:before { content: "\f106"; }
+.flaticon-bicicleta-de-entrega:before { content: "\f107"; }
+.flaticon-te:before { content: "\f108"; }
+.flaticon-caja-registradora:before { content: "\f109"; }
+.flaticon-portapapeles:before { content: "\f10a"; }
+.flaticon-cuchilleria:before { content: "\f10b"; }
+.flaticon-entrega-de-comida:before { content: "\f10c"; }
+.flaticon-iniciar-sesion:before { content: "\f10d"; }
+.flaticon-ajustes:before { content: "\f10e"; }
+.flaticon-felicidad:before { content: "\f10f"; }
+.flaticon-menu:before { content: "\f110"; }
+.flaticon-restaurante:before { content: "\f111"; }
+.flaticon-plato:before { content: "\f112"; }
+.flaticon-para-llevar:before { content: "\f113"; }
+.flaticon-entrega-de-comida-1:before { content: "\f114"; }
+.flaticon-cubiertos:before { content: "\f115"; }
+.flaticon-ordenar-comida:before { content: "\f116"; }
+.flaticon-camarero:before { content: "\f117"; }
+.flaticon-menu-1:before { content: "\f118"; }
+.flaticon-para-llevar-1:before { content: "\f119"; }
+.flaticon-ordenar:before { content: "\f11a"; }
+.flaticon-entrega-de-comida-2:before { content: "\f11b"; }
+.flaticon-comprobar:before { content: "\f11c"; }
+.flaticon-listas-de-verificacion:before { content: "\f11d"; }
+.flaticon-division:before { content: "\f11e"; }
+    
+    $font-Flaticon-analitica: "\f100";
+    $font-Flaticon-ganancias: "\f101";
+    $font-Flaticon-google-play: "\f102";
+    $font-Flaticon-manzana: "\f103";
+    $font-Flaticon-simbolo-de-diseno-receptivo: "\f104";
+    $font-Flaticon-herramientas-de-reparacion: "\f105";
+    $font-Flaticon-factura: "\f106";
+    $font-Flaticon-bicicleta-de-entrega: "\f107";
+    $font-Flaticon-te: "\f108";
+    $font-Flaticon-caja-registradora: "\f109";
+    $font-Flaticon-portapapeles: "\f10a";
+    $font-Flaticon-cuchilleria: "\f10b";
+    $font-Flaticon-entrega-de-comida: "\f10c";
+    $font-Flaticon-iniciar-sesion: "\f10d";
+    $font-Flaticon-ajustes: "\f10e";
+    $font-Flaticon-felicidad: "\f10f";
+    $font-Flaticon-menu: "\f110";
+    $font-Flaticon-restaurante: "\f111";
+    $font-Flaticon-plato: "\f112";
+    $font-Flaticon-para-llevar: "\f113";
+    $font-Flaticon-entrega-de-comida-1: "\f114";
+    $font-Flaticon-cubiertos: "\f115";
+    $font-Flaticon-ordenar-comida: "\f116";
+    $font-Flaticon-camarero: "\f117";
+    $font-Flaticon-menu-1: "\f118";
+    $font-Flaticon-para-llevar-1: "\f119";
+    $font-Flaticon-ordenar: "\f11a";
+    $font-Flaticon-entrega-de-comida-2: "\f11b";
+    $font-Flaticon-comprobar: "\f11c";
+    $font-Flaticon-listas-de-verificacion: "\f11d";
+    $font-Flaticon-division: "\f11e";
